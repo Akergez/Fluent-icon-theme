@@ -8,7 +8,7 @@ fi
 
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
-readonly COLOR_VARIANTS=("standard" "matrix" "ocean" "orange" "rose" "space" "red" "sunshine")
+readonly COLOR_VARIANTS=("standard" "matrix" "ocean" "orange" "rose" "space" "sunrise" "fire")
 readonly BRIGHT_VARIANTS=("" "dark")
 
 readonly DEFAULT_NAME="Fluent"
@@ -29,8 +29,8 @@ usage() {
   printf "  %-25s%s\n"   "orange"   "Orange color folder version"
   printf "  %-25s%s\n"   "rose"     "rose color folder version"
   printf "  %-25s%s\n"   "space"   "space color folder version"
-  printf "  %-25s%s\n"   "red"      "Red color folder version"
-  printf "  %-25s%s\n"   "sunshine"   "sunshine color folder version"
+  printf "  %-25s%s\n"   "sunrise"      "Sunrise color folder version"
+  printf "  %-25s%s\n"   "fire"   "fire color folder version"
   printf "\n  %s\n" "By default, only the standard one is selected."
 }
 
