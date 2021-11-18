@@ -19,12 +19,12 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 |  COLOR VARIANTS |                                       |
 |:----------------|:--------------------------------------|
 | standard        | Standard color folder version         |
-| green           | Green color folder version            |
-| grey            | Grey color folder version             |
+| matrix          | Matrix color folder version           |
+| ocean           | Ocean color folder version            |
 | orange          | Orange color folder version           |
-| pink            | Pink color folder version             |
-| purple          | Purple color folder version           |
-| red             | Red color folder version              |
-| yellow          | Yellow color folder version           |
+| rose            | Rose color folder version             |
+| space           | Space color folder version            |
+| sunrise         | Sunrise color folder version          |
+| fire            | Fire color folder version             |
 
 By default, only **the standard one** is selected.
